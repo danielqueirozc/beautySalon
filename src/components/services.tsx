@@ -59,7 +59,7 @@ export function Services() {
                     <div data-aos="fade-down"  data-aos-easing="ease-in-out" data-aos-duration="1000" className="flex flex-col items-center justify-center gap-4 px-8 py-[58px] border-b-4 border-b-green700 shadow-lg bg-white">
                         <img className="w-20 h-20" src="../src/assets/IconHair.svg" alt="" />
                         <div className="flex flex-col items-center justify-center gap-3">
-                            <span className="text-2xl font-bold">Terapia capilar</span>
+                            <span className="text-xl lg:text-2xl font-bold">Terapia capilar</span>
                             <p className="text-textGray text-center">
                                 Terapia completa para couro <br /> cabeludo e fios, protegendo todos <br /> os tipos de cabelos, inclusive os <br /> longos e finos.
                             </p>
@@ -68,7 +68,7 @@ export function Services() {
                     <div data-aos="fade-down"  data-aos-easing="ease-in-out" data-aos-duration="1000" className="flex flex-col items-center justify-center gap-4 px-8 py-[58px] border-b-4 border-b-green700 shadow-lg bg-white">
                         <img className="w-20 h-20" src="../src/assets/scissors.svg" alt="" />
                         <div className="flex flex-col items-center justify-center gap-3">
-                            <span className="text-2xl font-bold">Cortes</span>
+                            <span className="text-xl lg:text-2xl font-bold">Cortes</span>
                             <p className="text-textGray text-center">
                                 Terapia completa para couro <br /> cabeludo e fios, protegendo todos <br /> os tipos de cabelos, inclusive os <br /> longos e finos.
                             </p>
@@ -77,7 +77,7 @@ export function Services() {
                     <div data-aos="fade-down"  data-aos-easing="ease-in-out" data-aos-duration="1000" className="flex flex-col items-center justify-center gap-4 px-8 py-[58px] border-b-4 border-b-green700 shadow-lg bg-white">
                         <img className="w-20 h-20" src="../src/assets/shampoo.svg" alt="" />
                         <div className="flex flex-col items-center justify-center gap-3">
-                            <span className="text-2xl font-bold">Tratamentos</span>
+                            <span className="text-xl lg:text-2xl font-bold">Tratamentos</span>
                             <p className="text-textGray text-center">
                                 Terapia completa para couro <br /> cabeludo e fios, protegendo todos <br /> os tipos de cabelos, inclusive os <br /> longos e finos.
                             </p>

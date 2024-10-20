@@ -2,7 +2,7 @@ import { Facebook, Instagram, Youtube } from "lucide-react";
 
 export function Footer() {
     return (
-        <footer id="footer" className="bg-green700 py-16 px-6 flex flex-col items-start gap-8">
+        <footer id="footer" className="bg-green700 py-16 sm:py-16 px-6 sm:px-32 flex flex-col sm:flex-row items-start sm:items-center sm:justify-between gap-8">
             <div className="flex flex-col gap-6">
                 <img src="../src/assets/LogoHeader.svg" alt="logo" />
                 <div className="flex flex-col gap-3 text-white">

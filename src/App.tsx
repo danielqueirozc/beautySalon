@@ -6,7 +6,7 @@ import { Main } from "./components/main";
 import { Services } from "./components/services";
 import { Testimonials } from "./components/testimonials";
 
-export default function App() {
+export function App() {
   return (
   <>
      <Header />
@@ -17,6 +17,6 @@ export default function App() {
      <Contact />
      <Footer />
   </>
-  )
+  );
 }
 

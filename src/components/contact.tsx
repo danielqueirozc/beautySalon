@@ -2,8 +2,8 @@ import { Mail, MapPin, Phone } from "lucide-react";
 
 export function Contact() {
     return (
-        <section id="contact" className="bg-white200 px-6 py-20 flex flex-col items-start gap-16">
-            <div className="flex flex-col gap-8">
+        <section id="contact" className="bg-white200 px-6 sm:pl-32 py-20 sm:py-40 flex flex-col lg:flex-row items-start lg:items-center gap-16 lg:gap-[268px]">
+            <div className="sm:w-[404px] flex flex-col gap-8">
                 <h1 className="text-3xl font-bold">Entre em contato com a gente!</h1>
                 <p className="text-textGray">Entre em contato com a Beautysalon, queremos tirar suas dúvidas, ouvir suas críticas e sugestões.</p>
                 <button className='flex items-center justify-center gap-2 w-[236px] h-14 bg-green700 px-6 py-3 rounded'>

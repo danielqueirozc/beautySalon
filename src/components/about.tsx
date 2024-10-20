@@ -19,10 +19,10 @@ export function About() {
                 />
             </div>
                     
-            <div className="flex flex-col sm:flex-row sm:mt-8">
+            <div className="flex flex-col lg:flex-row sm:mt-8">
                 <div className="w-full relative px-0 min-h-[300px]">
                     <img className="relative -top-6" src="../src/assets/Shape.svg" alt="" />
-                    <img className="w-full absolute top-0 left-0 z-10" src="../src/assets/Img1.png" alt="" />
+                    <img className="absolute top-0 left-0 z-10" src="../src/assets/Img1.png" alt="" />
                 </div>
 
                 <div className="px-6">
