@@ -62,8 +62,14 @@ export function Header() {
                     <ButtonHamburguer />
                 </SheetTrigger>
 
-                <SheetContent>
-                    
+                <SheetContent className="flex items-center justify-center">
+                    <div className="flex flex-col items-center gap-16">
+                        <a className="font-bold text-3xl" href="#">Início</a>
+                        <a className="font-bold text-3xl" href="#">Sobre</a>
+                        <a className="font-bold text-3xl" href="#">Serviços</a>
+                        <a className="font-bold text-3xl" href="#">Depoimentos</a>
+                        <a className="font-bold text-3xl" href="#">Contato</a>
+                    </div>
                 </SheetContent>
             </Sheet>
            ):
